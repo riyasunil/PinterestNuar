@@ -131,14 +131,16 @@ function Wrapper(key, value) {
         }
 
         /*author: riya */
+        /* carousel*/
         .jzS.un8.TB_{
-            background-color: #000 !important;
+            background-color: #121212 !important;
         }
+        /*searchbox*/
         .MIw.sLG.zI7.iyn.Hsu{
             background-color:#000 !important;
         }
 
-        
+
         /* Это кнопка выбора пункта */
         .Eqh.P_h.fZz.fev.zI7.iyn.Hsu { 
             background-color: #1f1f1f24;
