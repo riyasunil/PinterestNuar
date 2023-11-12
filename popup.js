@@ -139,16 +139,21 @@ function Wrapper(key, value) {
         .MIw.sLG.zI7.iyn.Hsu{
             background-color:#000 !important;
         }
+        /*profile buttons*/ 
+        .tBJ dyH iFc sAJ O2T tg7 H2s{
+            color: #000 !important;
+        }
 
 
         /* Это кнопка выбора пункта */
         .Eqh.P_h.fZz.fev.zI7.iyn.Hsu { 
             background-color: #1f1f1f24;
         }
-        /* Это кнопка не выбранного пункта */
+        /* Это кнопка не выбранного пункта 
         .tBJ.dyH.iFc.sAJ.O2T.tg7.H2s { 
             color: #ffffff81;
-        }
+        }*/
+        
         /* поиск */
         .Jea.fev.gpV.zI7.iyn.Hsu { 
             background-color: #ff1e1e00;
